@@ -4,6 +4,7 @@ Speedcuber<br>Getting better with Python<br>Working on Taktische Zeichen
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dr-patrick-bessel-a35014263) 
+[![WorldCubeAssociation](https://img.shields.io/badge/WorldCubeAssociation-%230077B5.svg)](https://www.worldcubeassociation.org/persons/2020BESS01) 
 
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
