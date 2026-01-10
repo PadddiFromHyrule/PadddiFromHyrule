@@ -1,4 +1,21 @@
-## Hi there 👋
+# 💫 About Me:
+Speedcuber<br>Getting better with Python<br>Working on Taktische Zeichen
+
+
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dr-patrick-bessel-a35014263) 
+
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=PadddiFromHyrule&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=PadddiFromHyrule&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=PadddiFromHyrule&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+### ✍️ Quote
+Alles ist möglich, vorausgesetzt, daß es genügend unvernünftig ist. - Niels Bohr
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 <!--
 **PadddiFromHyrule/PadddiFromHyrule** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
