@@ -1,5 +1,5 @@
 # 💫 About Me:
-Speedcuber<br>Getting better with Python<br>Working on Taktische Zeichen
+Speedcuber<br>Working on https://github.com/PadddiFromHyrule/TaktischeZeichen
 
 
 ## 🌐 Socials:
