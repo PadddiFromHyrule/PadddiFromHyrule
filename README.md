@@ -3,7 +3,10 @@ Speedcuber<br>Working on [Taktische Zeichen](https://github.com/PadddiFromHyrule
 
 ## 🧰 Languages and Tools
 <!-- von https://devicon.dev/ -->
+
+<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/latex/latex-original.svg" />
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" />
 <img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />          
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
@@ -13,6 +16,7 @@ Speedcuber<br>Working on [Taktische Zeichen](https://github.com/PadddiFromHyrule
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dr-patrick-bessel-a35014263) 
 [![WorldCubeAssociation](https://img.shields.io/badge/WorldCubeAssociation-%230077B5.svg)](https://www.worldcubeassociation.org/persons/2020BESS01) 
+[![Geocaching](https://img.shields.io/badge/Geocaching-%230077B5.svg)](https://www.worldcubeassociation.org/persons/2020BESS01)
 
 ### ✍️ Quote
 Alles ist möglich, vorausgesetzt, daß es genügend unvernünftig ist. - Niels Bohr
