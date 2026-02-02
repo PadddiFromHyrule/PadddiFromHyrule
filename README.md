@@ -1,5 +1,6 @@
 # 💫 About Me:
-Speedcuber<br>Working on [Taktische Zeichen](https://github.com/PadddiFromHyrule/TaktischeZeichen)
+Chemist, Speedcuber and Geocacher<br>
+Working on [Taktische Zeichen](https://github.com/PadddiFromHyrule/TaktischeZeichen)
 
 ## 🧰 Languages and Tools
 <!-- von https://devicon.dev/ -->
