@@ -1,40 +1,20 @@
-# 💫 About Me:
-Chemist, Speedcuber and Geocacher<br>
-Working on [Taktische Zeichen](https://github.com/PadddiFromHyrule/TaktischeZeichen)
+<!---https://rahuldkjain.github.io/gh-profile-readme-generator/--->
+<h1 align="center">Hi 👋, I'm Patrick</h1>
+<h3 align="center">Chemist, Speedcuber, Geocacher</h3>
 
-## 🧰 Languages and Tools
-<!-- von https://devicon.dev/ -->
+- 🔭 I’m currently working on [Taktische Zeichen](https://github.com/PadddiFromHyrule/TaktischeZeichen)
 
-<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/latex/latex-original.svg" />
-<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" />
-<img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />          
-<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-<br />
+- 🌱 I’m currently learning **Python**
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dr-patrick-bessel-a35014263) 
-[![WorldCubeAssociation](https://img.shields.io/badge/WorldCubeAssociation-%230077B5.svg)](https://www.worldcubeassociation.org/persons/2020BESS01) 
-[![Geocaching](https://img.shields.io/badge/Geocaching-%230077B5.svg)](https://www.worldcubeassociation.org/persons/2020BESS01)
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/dr-patrick-bessel-a35014263" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dr-patrick-bessel-a35014263" height="30" width="40" /></a>
+</p>
 
-### ✍️ Quote
-Alles ist möglich, vorausgesetzt, daß es genügend unvernünftig ist. - Niels Bohr
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-<!--
-**PadddiFromHyrule/PadddiFromHyrule** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3 align="left">✍️ Quote: </h3>
+<p align="left">Alles ist möglich, vorausgesetzt, daß es genügend unvernünftig ist. - Niels Bohr</p>
